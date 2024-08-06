@@ -11,10 +11,6 @@ const Stats = () =>  (
       ))}
     </section>
   )
-<<<<<<< HEAD
-
-=======
->>>>>>> fdcd01a4e9a85085f4a129a3b2af0b31cb4dde22
 
 
 export default Stats
